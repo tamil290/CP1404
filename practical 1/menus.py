@@ -1,6 +1,6 @@
 # Menus
 
-name = input("Enter Name: ")
+name = input("Enter Name : ")
 choice = ''
 while choice != "Q":
    print("(H)ello")
