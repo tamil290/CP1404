@@ -1,6 +1,11 @@
 # Menus
 
-name = input("Enter Name : ")
+def main():
+    global name
+    name = input("Enter Name : ")
+
+
+main()
 choice = ''
 while choice != "Q":
    print("(H)ello")
