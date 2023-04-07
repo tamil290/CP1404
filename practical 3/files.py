@@ -53,6 +53,7 @@ file.close()
 # 4
 
 
+
 """Open the file for reading"""
 file = open("numbers.txt", "r")
 
