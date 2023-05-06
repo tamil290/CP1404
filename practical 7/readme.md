@@ -6,7 +6,7 @@
 The repository contains my practical work for the CP1404 programming subject. 
 My name is [TAMILSELVAN ], studying at [James Cook University Singapore].
 
-## Clean Code Lessons
+## Lessons learnt
 
 1. Clarity and maintainability are crucial aspects of writing code that is easy to comprehend, 
 update, and maintain. To enhance readability, it's important to adhere to consistent naming conventions, maintain proper indentation, and avoid complex or nested structures.
@@ -19,5 +19,8 @@ proper validation of user inputs, checking for edge cases, and providing meaning
 
 ## Links
 
+https://github.com/tamil290/CP1404
+https://github.com/CP1404/Practicals
 
 ## Committed
+Last committed on 06/05/22
