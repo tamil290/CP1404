@@ -1,3 +1,5 @@
+# BOX LAYOUT
+
 import random
 from kivy.app import App
 from kivy.lang import Builder
