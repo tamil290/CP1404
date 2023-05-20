@@ -1,0 +1,7 @@
+17
+42
+400
+
+price = max(price, MIN_PRICE)
+    price = min(price, MAX_PRICE)
+print(f"On day {number_of_days} price is ${price:,.2f}")
