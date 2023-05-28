@@ -5,11 +5,9 @@ This repository contains the completed code for the practical assignments of the
 
 ## About Me 
 
-Student Name : TAMIL SELVAN 
+Student Name : TAMILSELVAN 
 
-Subject : CP1404 -  Programming 2
-
-Programming Language - Python
+Subject : CP1404-Programming 2
 
 Student ID : 14332220
 
