@@ -1,5 +1,5 @@
 
-# CP1404 - Programming 2 Practicals 2023
+# CP1404 - Programming 2 
 
 This repository contains the completed code for the practical assignments of the Programming 2.
 
